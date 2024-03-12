@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Tahoma';
+}
+.game{
+    background-color: black;
+    height: 100vh;
+    padding-top: 1px;
+}
+.title{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
