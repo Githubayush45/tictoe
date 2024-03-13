@@ -4,7 +4,7 @@
     font-family: 'Tahoma';
 }
 .game{
-    background: linear-gradient(to bottom,#a480cf, #d264b6);
+    background: linear-gradient(to bottom,#cfbaf0, #a3c4f3);
     height: 100vh;
     padding-top: 1px;
 }
@@ -12,10 +12,10 @@
     color:black;
     text-align: center;
     font-size: 40px;
-    margin-top: 5%;
+    margin-top: 10px;
 }
 .game1{
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 20px;
     color:white;
     height:20px;
@@ -35,7 +35,7 @@
     
 }
 .column{
-    margin-top: 30px;
+    margin-top: 20px;
     width: 130px;
     height: 100px;
     background-color: white;
@@ -56,7 +56,7 @@
 
 #reset {
     
-    padding: 5px 20px;
+    padding: 5px 10px;
     background-color:red;
     color: white;
     border: none;
@@ -65,5 +65,5 @@
     margin-left: 650px;
 }
 .controls {
-    margin-top: 20px;
+    margin-top: 10px;
 }
