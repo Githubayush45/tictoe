@@ -2,9 +2,10 @@
     
     margin: 0;
     font-family: 'Tahoma';
+    
 }
 .game{
-    background: linear-gradient(to bottom,#cfbaf0, #a3c4f3);
+    background: linear-gradient(to bottom,#a480cf, #d264b6);
     height: 100vh;
     padding-top: 1px;
 }
@@ -67,5 +68,5 @@
     /* margin-left: 650px; */
 }
 .controls {
-    margin-top: 10px;
+    margin-top: 20px;
 }
