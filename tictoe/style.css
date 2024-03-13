@@ -7,7 +7,7 @@
 .game{
     background: linear-gradient(to bottom,#a480cf, #d264b6);
     height: 100vh;
-    padding-top: 1px;
+    padding-top: 10px;
 }
 .title{
     color:black;
