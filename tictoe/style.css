@@ -12,16 +12,16 @@
     color:black;
     text-align: center;
     font-size: 40px;
-    margin-top: 5%;
+    margin-top: 10px;;
 }
 .game1{
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 20px;
     color:white;
     height:20px;
     margin-left: 44%;
     background-color: rgb(17, 17, 95);
-    border: 2px solid #000;
+    
     width: 130px;
     padding: 10px;
     border-radius: 30%;
@@ -35,7 +35,7 @@
     
 }
 .column{
-    margin-top: 30px;
+    margin-top: 20px;
     width: 130px;
     height: 100px;
     background-color: white;
@@ -65,5 +65,5 @@
     margin-left: 650px;
 }
 .controls {
-    margin-top: 20px;
+    margin-top: 10px;
 }
