@@ -2,9 +2,10 @@
     
     margin: 0;
     font-family: 'Tahoma';
+    background-color: #a480cf;
 }
 .game{
-    background: linear-gradient(to bottom,#a480cf, #d264b6);
+   
     height: 100vh;
     padding-top: 1px;
 }
@@ -19,7 +20,7 @@
     font-size: 20px;
     color:white;
     height:20px;
-    margin-left: 44%;
+    margin-left: 42%;
     background-color: rgb(17, 17, 95);
     border: 2px solid #000;
     width: 130px;
@@ -66,4 +67,5 @@
 }
 .controls {
     margin-top: 20px;
+    
 }
