@@ -19,10 +19,9 @@
     font-size: 20px;
     color:white;
     height:20px;
-    margin-left: 44%;
-    background-color: rgb(17, 17, 95);
-    border: 2px solid #000;
-    width: 130px;
+   display:flex;
+   align-items: center;
+   justify-content: center;
     padding: 10px;
     border-radius: 30%;
     
@@ -44,7 +43,7 @@
     display:flex;
     align-items: center;
     justify-content: center;
-    margin-left: 450px;
+    /* margin-left: 450px; */
     
 
 }
@@ -62,7 +61,10 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-left: 650px;
+    display:flex;
+   align-items: center;
+   justify-content: center;
+    /* margin-left: 650px; */
 }
 .controls {
     margin-top: 10px;
